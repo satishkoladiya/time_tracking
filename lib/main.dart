@@ -30,6 +30,7 @@ class MyApp extends StatelessWidget {
       builder: (context, ref, child) {
         final theme = ref.watch(themeViewModelProvider);
         return MaterialApp(
+          debugShowCheckedModeBanner: false,
           title: 'Flutter Demo',
           themeMode: theme.themeMode,
           darkTheme: ThemeData(
