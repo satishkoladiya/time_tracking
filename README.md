@@ -51,8 +51,6 @@ Or you can change in `lib/config/constants.dart` file
 - To get a list of available `PACKAGE_TYPE`, use `flutter build`.
 - Typical values are  `apk` , `ios`.
 
-## Screen
-
 
 ## Demo build
 
@@ -61,6 +59,7 @@ Or you can change in `lib/config/constants.dart` file
 ## Demo Video 
 
 https://drive.google.com/file/d/1EjrsmuOWgkb9Z9o82MJAauTd0omrZ2jT/view?usp=sharing
+
 
 ## Supported platforms
 
