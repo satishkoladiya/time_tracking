@@ -56,7 +56,11 @@ Or you can change in `lib/config/constants.dart` file
 
 ## Demo build
 
-- Android : https://innoscripta.codemagic.app
+- Android : https://github.com/satishkoladiya/time_tracking/releases/download/DemoAPK/Time_tracking.apk
+
+## Demo Video 
+
+https://drive.google.com/file/d/1EjrsmuOWgkb9Z9o82MJAauTd0omrZ2jT/view?usp=sharing
 
 ## Supported platforms
 
