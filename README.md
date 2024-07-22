@@ -56,7 +56,7 @@ Or you can change in `lib/config/constants.dart` file
 
 ## Demo build
 
-- Android : https://innoscripta.codemagic.app
+- Android : 
 
 ## Supported platforms
 
